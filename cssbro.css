@@ -1,0 +1,101 @@
+.contents
+{
+    margin-top : 100px;
+}
+.contents h3
+{
+    border-bottom : 2px solid #cecece;
+}
+.contents-img.htmlcss
+{
+    width: 250px;
+    height : 250px;
+    padding : 10px;
+    background-color: grey;
+}
+.contents-img.php
+{
+    width: 250px;
+    height : 250px;
+    padding : 10px;
+    background-color: green;
+}
+.contents-img.java{
+    width: 250px;
+    height : 250px;
+    padding : 10px;
+    background-color: yellow;
+}
+.contents-img.python{
+    width: 250px;
+    height : 250px;
+    padding : 10px;
+    background-color: red;
+}
+
+.contents-img img
+{
+    width: 250px;
+
+}
+
+.contents-item
+{
+    float : left;
+    padding-right: 40px;
+}
+.contents-item p
+{
+    font-size: 24px;
+    margin-top: 30px;
+    text-align : center;
+}
+
+/* Contact */
+.contact
+{
+    padding-top: 400px;
+
+}
+
+input,textarea{
+    width: 400px;
+    margin-top: 10px;
+    margin-bottom: 30px;
+    padding: 20px;
+    font-size: 18px;
+    border: 1px solid gray;
+}
+
+.contact-submit{
+    background-color: green;
+    color: white;
+    cursor: pointer;
+}
+
+.txt-red{
+    color: red;
+}
+
+/* Footer */
+footer{
+    background-color: darkblue;
+    color: white;
+    padding: 20px 40px;
+    height: 30px;
+
+}
+
+.footer-logo{
+    float: left;
+    font-size: 30px;
+}
+
+.footer-nav{
+    float: right;
+}
+
+.footer-nav li{
+    padding: 10px 20px;
+    float: left;
+}
